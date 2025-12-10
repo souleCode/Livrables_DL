@@ -1,0 +1,13 @@
+env/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+backend/.env
+pages/api.http
+backend/data/uploads/
+backend/data/models/
+backend/__pycache__/
+backend/.env
+backend/database/frameml.db

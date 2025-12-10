@@ -1,0 +1,38 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+joblib
+openpyxl
+
+# Backend FastAPI Requirements
+
+
+# FastAPI et serveur
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+pydantic==2.5.3
+
+# Machine Learning
+scikit-learn==1.4.0
+xgboost==2.0.3
+numpy==1.26.3
+pandas==2.1.4
+
+# Base de données
+sqlalchemy==2.0.25
+alembic==1.13.1
+
+# Utilitaires
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.0
+
+
+
+# Optional: Deep Learning (décommenter si nécessaire)
+# tensorflow==2.15.0
+# torch==2.1.2
+# keras==2.15.0
